@@ -1,6 +1,7 @@
   h1 {
     color:#ffffcc;
   }
+
   h2 {
     
   }
@@ -25,3 +26,17 @@
     font-style: italic;
     margin-top: -15px;
   }
+
+  /* unvisited link */
+a:link {
+  color: ##8E6BB3;
+}
+
+/* mouse over link */
+a:hover {
+  color: ##191122;
+}
+
+.nav-link {
+  color: ###8E6BB3;
+}

@@ -1,0 +1,27 @@
+  h1 {
+    color:#ffffcc;
+  }
+  h2 {
+    
+  }
+  .yellowType {
+    color:#ffffcc;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0px 20px 0px;
+  }
+
+  .jumbotron {
+    background-image: url("stage.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .caption {
+    font-size: 12px;
+    font-style: italic;
+    margin-top: -15px;
+  }

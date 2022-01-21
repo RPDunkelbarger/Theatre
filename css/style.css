@@ -19,6 +19,7 @@
     background-image: url("stage.jpg");
     background-size: cover;
     background-position: center;
+    corner border-radius: 0px;
   }
 
   .caption {

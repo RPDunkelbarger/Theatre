@@ -28,6 +28,9 @@
     margin-top: -15px;
   }
 
+  .bg-dark {
+    background-color: 191122;
+  }
   /* unvisited link */
 a:link {
   color: ##8E6BB3;
